@@ -1,6 +1,8 @@
 # CustomizedFcn
 **use a custom transfer/activation function in NN fitting in matlab**
 
+**将matlab神经网络工具箱中的激活函数改为自定义函数**
+
 ## 修改步骤如下
 
 
